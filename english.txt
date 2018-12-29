@@ -1,5 +1,5 @@
 time to fry
 two models
-this is a very long sentaence, and I really mean it. This sentence is huge.
+this is a very long sentence, and I really mean it. This sentence is huge.
 look at this dude
-a b c
+a b c d e f g h i j
